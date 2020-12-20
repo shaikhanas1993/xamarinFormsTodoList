@@ -1,0 +1,17 @@
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\bin\Debug\netstandard2.0\TodoList.deps.json
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\bin\Debug\netstandard2.0\TodoList.dll
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\bin\Debug\netstandard2.0\ref\TodoList.dll
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\bin\Debug\netstandard2.0\TodoList.pdb
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.csprojAssemblyReference.cache
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.AssemblyInfo.cs
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.csproj.Fody.CopyLocal.cache
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.dll
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\ref\TodoList.dll
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoList.pdb
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\TodoListView.xaml.g.cs
+C:\Users\Sunday-Lenovo-11\Desktop\sunday-projects\dotnet\TodoList\TodoList\TodoList\obj\Debug\netstandard2.0\AddTodoItem.xaml.g.cs
